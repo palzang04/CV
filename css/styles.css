@@ -1,0 +1,33 @@
+
+  body{
+    background-color:#EAF6F6;
+  }
+.table
+{
+  border-color: white;
+}
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+
+    width:5%;
+  }
+  img
+  {
+    height:150px;
+    width:150px;
+  }
+h1
+{
+  color:#bedbbb;
+}
+h3
+{
+  color:#61BFBF;
+}
+li{
+  font-style:oblique;
+  font-size: 17px;
+}
